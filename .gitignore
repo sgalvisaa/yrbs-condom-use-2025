@@ -1,0 +1,13 @@
+# CDC raw data and derived data (download from cdc.gov/yrbs; recreated by the scripts)
+data/
+*.rds
+
+# Working notes and drafts
+my_working_script.R
+report/
+
+# R / OS
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
